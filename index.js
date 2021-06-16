@@ -5,7 +5,7 @@ var fetch = require('node-fetch');
 
 
 process.env.BOT_TOKEN = '1845731221:AAEHMm69pVErKeHIpxXHTDDJeH4xSZ396Tk';
-const TOKEN = '1845731221:AAEHMm69pVErKeHIpxXHTDDJeH4xSZ396Tk'
+const TOKEN = 'token'
 
 var chat='';
 
